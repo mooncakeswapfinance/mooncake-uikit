@@ -2125,7 +2125,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/mooncakeFinance",
+        href: "https://twitter.com/mooncakeswap",
     },
 ];
 var MENU_HEIGHT = 64;
