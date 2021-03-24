@@ -2117,8 +2117,12 @@ var socials = [
         icon: "TelegramIcon",
         items: [
             {
-                label: "English",
+                label: "Announcements",
                 href: "https://t.me/MooncakeFinance",
+            },
+            {
+                label: "English",
+                href: "https://t.me/Mooncakeswapchat",
             }
         ],
     },
